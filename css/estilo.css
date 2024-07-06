@@ -1,0 +1,18 @@
+body{
+    background-image: url("/img/car-Lamborghini-McLaren-12C-McLaren-540C-Martin-B-10-Audi-80-90-B3-2218396-wallhere.com.jpg");
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: red;
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.tablita td{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.308);
+}
